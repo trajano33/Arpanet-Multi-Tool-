@@ -1,7 +1,6 @@
-::::::::::::::::::::::::::::::::::::::::::::
-:: Elevate.cmd - Version 4
-:: Automatically check & get admin rights
-::::::::::::::::::::::::::::::::::::::::::::
+::By: Trajano
+::Versão 0.1 BETA
+
 @echo off
 CLS
 ECHO.
