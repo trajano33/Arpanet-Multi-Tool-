@@ -1,5 +1,5 @@
-::By: Trajano
-::Versão 0.1 BETA
+::  By: Trajano
+::  Versão: 0.1 BETA
 
 @echo off
 CLS
